@@ -1,23 +1,24 @@
-### Hi there, I'm Tasuntha Chathunika Dayasiri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+### Hi there, I'm Tasuntha Chathunika! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a passionate ICT undergraduate at the University of Vavuniya, dedicated to exploring the dynamic intersection of technology and design. My journey is fueled by a commitment to learning and a drive to create impactful solutions.
 
 <a href="https://tasuntha-chathunika.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-MyWork-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/tasuntha-chathunika/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:tasunthachathunika@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ContactMe-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:[YOUR_EMAIL_ADDRESS_HERE]" target="_blank"><img src="https://img.shields.io/badge/Email-ContactMe-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ---
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/212280219-064a80a6-0cf9-4639-82d8-02a421367930.gif" alt="coding gif" width="80%">
 </p>
+
 ---
 
 ### 🚀 About Me
 
 -   🌱 I’m currently deepening my knowledge in **C, C++, Java, C# & SQL**, building a strong foundation for software engineering.
 -   💻 On the creative front, I'm a freelance **Graphic Designer** on Fiverr, specializing in **Adobe Photoshop** and **Illustrator** to deliver professional and impactful designs.
--   🔭 I’m currently I’m currently developing a Hotel Management System using C#, as part of enhancing my software development skills and project experience.
+-   🔭 I’m currently working on [**ඔයා දැනට වැඩ කරන project එකක් හෝ ඔයා ආඩම්බර වෙන project එකක් මෙතන දාන්න. උදා: a new web application for a client, enhancing my portfolio with React, a Java-based utility tool.**].
 -   🤝 I’m looking to collaborate on innovative **software development, web design, or graphic design projects**. I'm particularly interested in projects where I can blend my technical and creative skills.
 -   💡 I'm open to **internships, freelance opportunities, and collaborative projects** that allow me to learn and contribute meaningfully.
 -   💬 Ask me about anything related to my skills (C, C++, Java, C#, SQL, Photoshop, Illustrator) or the projects I'm working on!
