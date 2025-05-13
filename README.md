@@ -1,4 +1,4 @@
-### Hi there, I'm Tasuntha Chathunika! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+### Hi there, I'm Tasuntha Chathunika Dayasiri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a passionate ICT undergraduate at the University of Vavuniya, dedicated to exploring the dynamic intersection of technology and design. My journey is fueled by a commitment to learning and a drive to create impactful solutions.
 
