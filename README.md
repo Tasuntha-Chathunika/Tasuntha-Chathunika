@@ -3,7 +3,7 @@
 I'm a passionate ICT undergraduate at the University of Vavuniya, dedicated to exploring the dynamic intersection of technology and design. My journey is fueled by a commitment to learning and a drive to create impactful solutions.
 
 <a href="https://tasuntha-chathunika.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-MyWork-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
-<a href="www.linkedin.com/in/tasuntha-chathunika" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/tasuntha-chathunika/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:tasunthachathunika@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ContactMe-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ---
