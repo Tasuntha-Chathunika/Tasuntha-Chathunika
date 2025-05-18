@@ -7,16 +7,10 @@ I'm a passionate ICT undergraduate at the University of Vavuniya, dedicated to e
 <a href="mailto:tasunthachathunika@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ContactMe-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ---
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/212280219-064a80a6-0cf9-4639-82d8-02a421367930.gif">
-
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/73097560/212280219-064a80a6-0cf9-4639-82d8-02a421367930.gif">
-
-  <img src="https://user-images.githubusercontent.com/73097560/212280219-064a80a6-0cf9-4639-82d8-02a421367930.gif" alt="coding gif" width="100%">
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/212280219-064a80a6-0cf9-4639-82d8-02a421367930.gif" alt="Coding gif" width="80%">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/212280219-064a80a6-0cf9-4639-82d8-02a421367930.gif" alt="Coding GIF">
 </p>
+
 
 
 </picture>
