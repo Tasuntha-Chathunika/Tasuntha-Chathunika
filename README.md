@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tasuntha-Chathunika&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
-### 🚀 About Me
+ 🚀 About Me
 
 -   🌱 I’m currently deepening my knowledge in **C, C++, Java, C# & SQL**, building a strong foundation for software engineering.
 -   💻 On the creative front, I'm a freelance **Graphic Designer** on Fiverr, specializing in **Adobe Photoshop** and **Illustrator** to deliver professional and impactful designs.
@@ -29,14 +29,14 @@
  
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/warun_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warunlp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/warundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warundev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21975201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21975201" height="30" width="40" /></a>
-<a href="https://dribbble.com/warundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="liyanapathirana" height="30" width="40" /></a>
-<a href="https://www.behance.net/warundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="warundev" height="30" width="40" /></a>
-<a href="https://medium.com/@warundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@warunliyanapathirana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/warundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="warundev" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/warundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="warundev" height="30" width="40" /></a>
+<!--<a href="https://twitter.com/warun_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warunlp" height="30" width="40" /></a>-->
+<a href="https://www.linkedin.com/in/tasuntha-chathunika"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tasuntha chathunika" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27013208/tasuntha-chathunika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27013208" height="30" width="40" /></a>
+<!--<a href="https://dribbble.com/warundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="liyanapathirana" height="30" width="40" /></a>-->
+<a href="https://www.behance.net/tasunthachathunika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tasunthachathunika" height="30" width="40" /></a>
+<a href="https://medium.com/@tasunthachathunika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tasunthachathunika" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Tasuntha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Tasuntha" height="30" width="40" /></a>
+<!--<a href="https://www.topcoder.com/members/warundev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="warundev" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,3 +60,4 @@
 </p>
 <!-- RAINBOW LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
